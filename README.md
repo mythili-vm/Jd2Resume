@@ -1,2 +1,2 @@
 # Jd2Resume
-Bases on JD update your resume
+Bases on JD update ATS friendly resume
